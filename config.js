@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"Jullian Yapeter Resume V18","author":"","fileName":"Jullian_Yapeter_Resume_3A_Draft_4.pdf","bounds":[[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
