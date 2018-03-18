@@ -107,6 +107,7 @@ h5, h6          { font-weight: bolder }
 /*    Billboard    */
 .billboard{
     width: 100%;
+    min-width: 100%;
     height: 690px;
     background-position: center top;
 }
