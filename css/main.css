@@ -113,7 +113,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard.light{
-    background: url('../img/billboard.jpg') no-repeat;
+    background: url('../img/jakarta.jpg') no-repeat;
 
     background-size: cover;
     -webkit-background-size: cover;
